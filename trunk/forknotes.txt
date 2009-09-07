@@ -1,0 +1,4 @@
+2009  June  28
+                *Posting Version 1.00 of GPL source code of lphant project.
+2009  June 29
+                *Removed all references to lphant website                
