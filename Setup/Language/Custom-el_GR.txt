@@ -1,0 +1,5 @@
+﻿[Messages]
+LaunchHathi=Eκκίνηση Hathi
+CreateDesktopIcon=Δημιουργία ενός εικονιδίου επιφάνειας εργασίας
+WarningDotNet1=Eιδοποιήση : Tο Hathi απαιτεί .NET 2.0 Framework
+WarningDotNet2=Kατέβασε και εγκατεστησέ το πριν χρησιμοποιήσεις το Hathi !

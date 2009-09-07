@@ -1,0 +1,5 @@
+[Messages]
+LaunchHathi=Запустити Hathi
+CreateDesktopIcon=Створити ярлик на &робочому столі
+WarningDotNet1=Warning : Hathi потрібен .NET 2.0 фреймворк
+WarningDotNet2=Скачайте та встановіть це перед використанням Hathi !

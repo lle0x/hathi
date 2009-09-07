@@ -1,0 +1,61 @@
+Subject:
+            Hathi: New open source project to participate. We are looking for collaborators
+Text:
+
+Dear Community, good evening / morning / afternoon.
+
+A few days ago, along with a friend of mine, decided to start the
+Hathi project.
+
+https://sourceforge.net/projects/hathi/
+
+Just a short introduction to our project:
+
+Hathi is a reincarnition of the lphant P2P project.
+lphant was a free sofware project for a P2P client. Its community
+released several versions under GPL license. Then, when application
+raised 1.0, some of their developers fell in the dark side temptations
+and split the project in two parts, the GUI, still under GPL and the
+"kernel", under closed source.
+After that, they released 2.0, 3.0 and 3.5 versions, but bad luck
+continued when a company bought the lphant.com domain and uses it to
+offer a fake 4.0 version of that application.
+
+We already started to work with the GPL source code of lphant, version
+1.0 and GUI 1.10. We will make it stable to create a solid baseline
+for Hathi.
+
+First ideas to implement in this project are:
+*Bittorrent support, using BitSharp library http://www.mono-project.com/Bitsharp
+*New logging facilities, using Log4Net http://logging.apache.org/log4net/
+*WPF GUI, like Family.Show: http://www.codeplex.com/familyshow
+*New deployment facilities, as rpm and deb packaging. Also a new
+Windows installer.
+
+Anyway, we are open to your ideas. You can post them in :
+https://sourceforge.net/apps/ideatorrent/hathi/ (require sf.net login)
+Even when we want multplatform support ussing mono/.net, some of the
+ideas can't be implemented today due the not mature status of some
+specific technologies in mono. That status is not a problem for us, we
+believe that need is a big gear for creation :)
+
+
+Currently we need help for different roles, including:
+
+* C# Developers, .net and/or mono
+* C# QA Testers
+* People to create documentation, .net documenting facilities knowledge is appreciated. We are able train any person for these tasks if required.
+* Translators, for GUI and documentation.
+* Ubuntu and/or debian packagers
+* RPM (Fedora, CentOS, OpenSuSE) packagers.
+
+
+We will appreciate you to spread this message between your colleagues
+and friends.
+
+If you are interested in the project, you can reach us at
+http://groups.google.com/group/hathi-dev
+and
+https://lists.sourceforge.net/lists/listinfo/hathi-devel 
+
+Regards 

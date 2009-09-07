@@ -1,0 +1,5 @@
+[Messages]
+LaunchHathi=Вы бы хотели запустить Hathi после установки?
+CreateDesktopIcon=Вы бы хотели создать ярлык на рабочем столе?
+WarningDotNet1=Hathi требуется .NET Framework 1.0 или выше для установки
+WarningDotNet2=Hathi требуется .NET Framework 2.0 или выше для установки
