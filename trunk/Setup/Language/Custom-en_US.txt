@@ -1,0 +1,5 @@
+[Messages]
+LaunchHathi=Launch Hathi
+CreateDesktopIcon=Create a &desktop icon
+WarningDotNet1=Warning : Hathi requires .NET 2.0 Framework
+WarningDotNet2=Download and install it before using Hathi !

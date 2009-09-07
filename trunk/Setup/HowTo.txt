@@ -1,0 +1,8 @@
+How to create the setup.exe file :
+
+1) Download and install Inno Setup QuickStart Pack 5.2.4 (www.jrsoftware.org)
+http://files.jrsoftware.org/ispack/ispack-5.2.4.exe
+
+2) Compile Hathi in Release mode
+
+3) Start Hathi.iss and compile it with IStool

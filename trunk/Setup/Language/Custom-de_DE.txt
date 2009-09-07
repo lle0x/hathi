@@ -1,0 +1,5 @@
+[Messages]
+LaunchHathi=Hathi jetzt starten.
+CreateDesktopIcon=&Desktop Icon erstellen
+WarningDotNet1=Hathi benötigt das .NET 2.0 Framework
+WarningDotNet2=Laden und installieren sie es bevor sie Hathi starten.
