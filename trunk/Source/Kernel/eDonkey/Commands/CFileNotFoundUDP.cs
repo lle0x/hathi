@@ -1,4 +1,4 @@
-#region Copyright (c)2009 Hathi Project < http://hathi.sourceforge.net >
+#region Copyright (c) 2013 Hathi Project < http://hathi.sourceforge.net >
 /*
 * This file is part of Hathi Project
 * Hathi Developers Team:
