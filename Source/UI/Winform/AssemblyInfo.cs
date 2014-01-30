@@ -1,4 +1,4 @@
-#region Copyright (c)2009 Hathi Project < http://hathi.sourceforge.net >
+#region Copyright (c) 2013 Hathi Project < http://hathi.sourceforge.net >
 /*
 * This file is part of Hathi Project
 * Hathi Developers Team:
@@ -39,7 +39,7 @@ using System.Runtime.CompilerServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("hathi.sourceforge.net")]
 [assembly: AssemblyProduct("Hathi")]
-[assembly: AssemblyCopyright("Copyright (C)2009 Hathi Project http://hathi.sourceforge.net ")]
+[assembly: AssemblyCopyright("Copyright (C) 2013 Hathi Project http://hathi.sourceforge.net")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -54,7 +54,7 @@ using System.Runtime.CompilerServices;
 // You can specify all the values or you can default the Revision and Build Numbers
 // by using the '*' as shown below:
 
-[assembly: AssemblyVersion("0.1.2")]
+[assembly: AssemblyVersion("0.1.3")]
 
 //
 // In order to sign your assembly you must specify a key to use. Refer to the
