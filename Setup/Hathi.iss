@@ -110,6 +110,9 @@ Name: de_DE; MessagesFile: Language\German.isl
 [_ISTool]
 UseAbsolutePaths=false
 
+[ThirdParty]
+CompileLogMethod=append
+
 [Code]
 var
 	CustomMessagesFile : String;
