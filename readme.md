@@ -27,7 +27,7 @@ Copyright (c)2009 Hathi Project < http://hathi.sourceforge.net >
 
 -----------------------------------------------------------------------------------
 
-[![Build status](https://ci.appveyor.com/api/projects/status/wjxb106gmdegc8h6/branch/master?svg=true)](https://ci.appveyor.com/project/elnomade/hathi/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/wjxb106gmdegc8h6?svg=true)](https://ci.appveyor.com/project/elnomade/hathi)
 
 
 Welcome to Hathi, a filesharing client based on the eDonkey2000(C) network.
