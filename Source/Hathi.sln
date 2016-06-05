@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hathi", "Kernel\Hathi.csproj", "{3DFF64F5-7EE6-4AA9-9D5D-A4CF8F648C37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hathi.UI.Winform", "UI\Winform\Hathi.UI.Winform.csproj", "{95001C3C-2297-4729-B653-0371D55A9A73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hathi.UI.Winform.Controls", "UI\Winform\Controls\Hathi.UI.Winform.Controls.csproj", "{68817627-41F1-43C9-A912-20906FD7E5CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DFF64F5-7EE6-4AA9-9D5D-A4CF8F648C37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DFF64F5-7EE6-4AA9-9D5D-A4CF8F648C37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DFF64F5-7EE6-4AA9-9D5D-A4CF8F648C37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DFF64F5-7EE6-4AA9-9D5D-A4CF8F648C37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95001C3C-2297-4729-B653-0371D55A9A73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95001C3C-2297-4729-B653-0371D55A9A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95001C3C-2297-4729-B653-0371D55A9A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95001C3C-2297-4729-B653-0371D55A9A73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68817627-41F1-43C9-A912-20906FD7E5CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68817627-41F1-43C9-A912-20906FD7E5CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68817627-41F1-43C9-A912-20906FD7E5CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68817627-41F1-43C9-A912-20906FD7E5CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

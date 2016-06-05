@@ -39,7 +39,7 @@ using System.Runtime.CompilerServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("hathi.sourceforge.net")]
 [assembly: AssemblyProduct("Hathi")]
-[assembly: AssemblyCopyright("Copyright (C) 2013 Hathi Project http://hathi.sourceforge.net")]
+[assembly: AssemblyCopyright("Copyright (C) 2016 Hathi Project http://hathi.sourceforge.net")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

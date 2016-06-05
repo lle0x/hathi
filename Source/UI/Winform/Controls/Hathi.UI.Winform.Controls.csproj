@@ -111,8 +111,8 @@
     <Reference Include="System.Xml">
       <Name>System.XML</Name>
     </Reference>
-    <ProjectReference Include="..\..\..\Kernel\Hathi10.csproj">
-      <Name>Hathi10</Name>
+    <ProjectReference Include="..\..\..\Kernel\Hathi.csproj">
+      <Name>Hathi</Name>
       <Project>{3DFF64F5-7EE6-4AA9-9D5D-A4CF8F648C37}</Project>
       <Package>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</Package>
     </ProjectReference>
