@@ -1,4 +1,4 @@
-Copyright (c)2009 Hathi Project < http://hathi.sourceforge.net >
+Copyright (c) 2009-2016 Hathi Project < http://hathi.sourceforge.net >
 /*
 * This file is part of Hathi Project
 * Hathi Developers Team:
@@ -32,8 +32,9 @@ Copyright (c)2009 Hathi Project < http://hathi.sourceforge.net >
 
 Welcome to Hathi, a filesharing client based on the eDonkey2000(C) network.
 
+Even when we imported the project from SourceForge, Github's "import project" feature still sucks and most of commit history wasn't imported correctly.
 
-Visit us at http://hathi.sourceforge.net
+Please visit us at http://hathi.sourceforge.net if you are interested in review our commits.
 
 Please remember that this is an early version, not all features are implemented yet,
 and not everything might work as expected.
