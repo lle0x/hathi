@@ -1,4 +1,4 @@
-Copyright (c) 2009-2016 Hathi Project < http://hathi.sourceforge.net >
+Copyright (c) 2009-2022 Hathi Project < http://hathi.sourceforge.net >
 /*
 * This file is part of Hathi Project
 * Hathi Developers Team:
